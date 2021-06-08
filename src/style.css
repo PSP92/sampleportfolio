@@ -5,12 +5,12 @@
 }
 
 :root {
-  --title-font: serif;
+  --title-font: 'Open Sans', sans-serif;
   --text-font: aerial;
 
-  --primary-color: crimson;
-  --secondary-color: white;
-  --accent-color: purple;
+  --primary-color: rgb(236, 190, 217);
+  --secondary-color: rgb(15, 14, 15);
+  --accent-color: rgb(202, 141, 184);
 }
 
 h1,
