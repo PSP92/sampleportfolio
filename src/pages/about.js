@@ -6,9 +6,9 @@ export default function Blog() {
 
   return (
     <Layout>
-      <h1>My Portfolio</h1>
+      <h1>About Me</h1>
  
-      <h3>About Me</h3>
+      
       <p>
       I'm a versatile full-stack developer with a background of ten plus years in customer service. 
       I am a leader and problem solver who is always up for a challenge. 

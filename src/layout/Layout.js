@@ -7,18 +7,19 @@ const Layout = props => {
     <>
       <header>
         <nav className="nav">
-          <Link to="/"><h1 className="nav__logo">Header</h1></Link>
+          <Link to="/"><h1 className="nav__logo">Teddi Manibusan</h1></Link>
           <div className="nav__links">
             <Link to="/blog">BLOG</Link>
             <Link to="/projects">Projects</Link>
-            <a href="">Github</a>
-            <a href="">LinkedIN</a>
+            <Link to="/about">About</Link>
+            <a href="">LinkedIn</a>
           </div>
         </nav>
       </header>
       <main className="main">{props.children}</main>
       <footer className="footer">
-        <h1>Footer</h1>
+        {/* <h1>Teddi Manibusan</h1> */}
+        
       </footer>
     </>
   )

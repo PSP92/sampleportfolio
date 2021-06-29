@@ -8,9 +8,9 @@
   --title-font: 'Open Sans', sans-serif;
   --text-font: aerial;
 
-  --primary-color: rgb(236, 190, 217);
-  --secondary-color: rgb(15, 14, 15);
-  --accent-color: rgb(202, 141, 184);
+  --primary-color: #9b6f9b;
+  --secondary-color:rgb(253, 253, 253);
+  --accent-color: #926a86;
 }
 
 h1,
@@ -54,7 +54,7 @@ Layout.js - nav
 }
 
 .nav__logo {
-  font-size: 4em;
+  font-size: 35px;
 }
 
 .nav__links {
