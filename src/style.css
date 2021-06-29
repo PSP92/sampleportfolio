@@ -5,8 +5,8 @@
 }
 
 :root {
-  --title-font: 'Open Sans', sans-serif;
-  --text-font: aerial;
+  --title-font: 'Oxygen', sans-serif;
+  --text-font: 'Exo 2', sans-serif;
 
   --primary-color: #9b6f9b;
   --secondary-color:rgb(253, 253, 253);
@@ -20,10 +20,17 @@ h4,
 h5,
 h6 {
   font-family: var(--title-font);
+  /* color: #434655; */
 }
 
 body {
   font-family: var(--text-font);
+}
+p{
+  font-family: var(--text-font);
+}
+.titles{
+  color:#434655;
 }
 img{
   border-radius: 4px;
