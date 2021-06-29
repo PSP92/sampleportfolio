@@ -28,10 +28,10 @@
         "live": "https://lotrgame.netlify.app/"
     },
     {
-        "name": "Lord of the Rings",
-        "description": "Lord of the Rings i ",
-        "image": "project image",
-        "github": "link to github repo",
-        "live": "link to deployed site"
+        "name": "Portfolio",
+        "description": "First project making a portfolio with using Javascript, HTML, and CSS",
+        "image": "https://www.nasa.gov/sites/default/files/thumbnails/image/hubble_birthofstars_0.jpg",
+        "github": "https://github.com/PSP92/project-1-329",
+        "live": "https://portfoliopracticetm.netlify.app/"
     }
 ]
