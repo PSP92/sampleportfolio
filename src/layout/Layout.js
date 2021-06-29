@@ -12,7 +12,7 @@ const Layout = props => {
             <Link to="/blog">BLOG</Link>
             <Link to="/projects">Projects</Link>
             <Link to="/about">About</Link>
-            <a href="">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/teddimanibusan/">LinkedIn</a>
           </div>
         </nav>
       </header>
