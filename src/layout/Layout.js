@@ -18,8 +18,12 @@ const Layout = props => {
       </header>
       <main className="main">{props.children}</main>
       <footer className="footer">
-        {/* <h1>Teddi Manibusan</h1> */}
-        
+        <div class="linkto">
+      <a href="https://www.linkedin.com/in/teddimanibusan/">LinkedIn</a>
+      <a href="https://github.com/PSP92">GitHub</a>
+      <a href="">Youtube(coming soon)</a>
+      <a href="">Twitter(coming soon)</a>
+      </div>
       </footer>
     </>
   )

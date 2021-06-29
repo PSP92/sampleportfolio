@@ -30,6 +30,17 @@ img{
   padding: 5px;
   width: 150px;
 }
+footer{
+  position: fixed;
+  display: flex;
+  /* left: 0; */
+  bottom: 0;
+  width: 100%;
+  background-color:#9b6f9b;
+  color: white;
+  text-align: center;
+  justify-content: space-between;
+}
 /* ****************************
 Layout.js - nav
 **************************** */
