@@ -25,7 +25,11 @@ h6 {
 body {
   font-family: var(--text-font);
 }
-
+img{
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
 /* ****************************
 Layout.js - nav
 **************************** */
